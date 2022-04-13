@@ -31,10 +31,10 @@
 UI Clone do Site da Amazon usando ReactJs,Node e Bootstrap. Esse Projeto foi realizado com fins educativos.
 
 ### ✅ Demonstração
-<img src="https://github.com/HugoNunes87/Clone-UI-Amazon/blob/main/public/github/Home.png" />
-<img src="https://github.com/HugoNunes87/Clone-UI-Amazon/blob/main/public/github/cards.png" />
-<img src="https://github.com/HugoNunes87/Clone-UI-Amazon/blob/main/public/github/carousel.png" />
-<img src="https://github.com/HugoNunes87/Clone-UI-Amazon/blob/main/public/github/Footer.png" />
+<img src="https://github.com/guigams/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazon-main/public/github/Home.png" />
+<img src="https://github.com/guigams/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazon-main/public/github/cards.png" />
+<img src="https://github.com/guigams/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazon-main/public/github/carousel.png" />
+<img src="https://github.com/guigams/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazon-main/public/github/Footer.png" />
 
 ### ⚙ Pré-requisitos
 
