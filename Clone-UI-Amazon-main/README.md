@@ -75,4 +75,4 @@ Esse projeto está sob a licença MIT.
 
 <hr/>
 
-Feito Por Hugo Nunes.
+Feito Por Guilherme Morais.
