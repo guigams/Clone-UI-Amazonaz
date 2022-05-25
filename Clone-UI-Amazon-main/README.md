@@ -46,7 +46,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/HugoNunes87/Clone-UI-Amazon.git
+$ git clone https://github.com/guigams/Clone-UI-Amazon.git
 
 # Instale as dependências
 $ yarn ou npm
